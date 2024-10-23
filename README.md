@@ -17,4 +17,4 @@
 
 #### Student of System and Analyses of Systems
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](antonioeduardovcnt@gmail.com)
+
