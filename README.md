@@ -1,8 +1,6 @@
 ### Hello, I'm Antonio Vicente 👋🏼
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-eduardo-vicente-31b5782bb/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioVicente1910&show_theme=dracula_progress=true)
+<img display="flex" text-align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioVicente1910&show_theme=dracula_progress=true">
 
 ### Technologies that I use
 
@@ -17,4 +15,5 @@
 
 #### Student of System and Analyses of Systems
 
+<a href="https://www.linkedin.com/in/ant%C3%B4nio-eduardo-vicente-31b5782bb/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
