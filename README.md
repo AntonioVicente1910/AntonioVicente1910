@@ -11,7 +11,7 @@
 </div>
 
 
-#### Student of System and Analyses of Systems
+### Student of System and Analyses of Systems
 
 <a href="https://www.linkedin.com/in/ant%C3%B4nio-eduardo-vicente-31b5782bb/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
