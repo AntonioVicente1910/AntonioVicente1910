@@ -1,7 +1,5 @@
 ### Hello, I'm Antonio Vicente 👋🏼
 
-<img display="flex" text-align="center" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioVicente1910&show_theme=dracula_progress=true">
-
 ### Technologies that I use
 
 <div style="display: inline_block"><br/>
